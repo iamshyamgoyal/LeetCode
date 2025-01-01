@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/iamshyamgoyal/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/iamshyamgoyal/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/iamshyamgoyal/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
