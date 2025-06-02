@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/iamshyamgoyal/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/iamshyamgoyal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/iamshyamgoyal/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/iamshyamgoyal/LeetCode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/iamshyamgoyal/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/iamshyamgoyal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/iamshyamgoyal/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/iamshyamgoyal/LeetCode/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/iamshyamgoyal/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/iamshyamgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/iamshyamgoyal/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
